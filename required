@@ -1,0 +1,17 @@
+Applications you have to download.
+
+>>> Python -                https://www.python.org/downloads/         (Get the lastest version available) 
+            This is obviously required to run any python scripts.
+            
+>>> Arduino IDE -           https://www.arduino.cc/en/Main/Software   (The Windows Store Version is okay, but I prefer the .exe (installer) version)
+            This allows one to program the arduino devices. 
+            
+>>> Visual Studio Code -    https://code.visualstudio.com/            (Make sure to check if your PC is x64 or x32(x86) and download the appropriate one)
+            A brilliant general coding environment ,it is open source and the amount of extentions are brilliant.
+            
+Applications I find useful, you dont need them but are useful.
+
+>>> NotePad++ -             https://notepad-plus-plus.org/download/v7.7.1.html (Code editing)
+>>> Microsoft Mathematics   https://www.microsoft.com/en-za/download/details.aspx?id=15702 (Brilliant caluclator and graphing)
+>>> GitHub Desktop          https://desktop.github.com/ (sends info between your hard drive and github)
+>>> Paint.net               https://www.getpaint.net/download.html (useful paint/photoshop type  thing)
